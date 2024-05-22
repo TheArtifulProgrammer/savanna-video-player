@@ -4,11 +4,11 @@ const VideoPlayer = () => {
     controls: true,
     responsive: true,
     fluid: true,
-    poster: "https://savanna-next.vercel.app/sliders/1.jpg",
+    poster: "https://dljr4bana07x0.cloudfront.net/1716368138230-screenshot-2024-05-22-105358.png",
     sources: [
       {
-        src: "https://savanna-trust-api.up.railway.app/api/v1/previews/65dcae2c2ca57129c781ee8c",
-        type: "video/mp4",
+        src: "https://dno88kzu8qkxq.cloudfront.net/1716367618932-shammah-jackson-rugby-highlights-2023/shammah-jackson-rugby-highlights-2023.m3u8",
+        type:"application/x-mpegURL"
       },
     ],
   };
